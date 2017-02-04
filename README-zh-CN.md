@@ -93,9 +93,6 @@
 
 - Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
 
-| ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
-|:---:|
-| USA as heck |
 
 ## 别认为自己不够聪明
 当我打开书本，发现他们告诉我多元微积分、统计与推理、线性代数是学习机器学习的先决条件的时候，我非常沮丧。因为我不知道从哪儿开始…
